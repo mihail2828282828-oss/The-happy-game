@@ -1,0 +1,9 @@
+*.asset merge=unityyaml eol=lf
+*.prefab merge=unityyaml eol=lf
+*.unity merge=unityyaml eol=lf
+*.mat merge=unityyaml eol=lf
+*.controller merge=unityyaml eol=lf
+*.cs text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
